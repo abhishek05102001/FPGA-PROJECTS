@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Mar 13 19:39:52 2021
+# Process ID: 12956
+# Current directory: C:/Users/mamughal/Desktop/ATM Machine
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6524 C:\Users\mamughal\Desktop\ATM Machine\ATM_Machine.xpr
+# Log file: C:/Users/mamughal/Desktop/ATM Machine/vivado.log
+# Journal file: C:/Users/mamughal/Desktop/ATM Machine\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/mamughal/Desktop/ATM Machine/ATM_Machine.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/mamughal/Desktop/ATM_Machine' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/Vivado/2020.2/data/ip'.
+update_compile_order -fileset sources_1

@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Sep 23 23:51:03 2021
+# Process ID: 21492
+# Current directory: C:/Users/raoab/OneDrive/Desktop/IMPORTANT FILES/Verilog/ATM Machine2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8412 C:\Users\raoab\OneDrive\Desktop\IMPORTANT FILES\Verilog\ATM Machine2\ATM_Machine.xpr
+# Log file: C:/Users/raoab/OneDrive/Desktop/IMPORTANT FILES/Verilog/ATM Machine2/vivado.log
+# Journal file: C:/Users/raoab/OneDrive/Desktop/IMPORTANT FILES/Verilog/ATM Machine2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/raoab/OneDrive/Desktop/IMPORTANT FILES/Verilog/ATM Machine2/ATM_Machine.xpr}
+update_compile_order -fileset sources_1
+close_project

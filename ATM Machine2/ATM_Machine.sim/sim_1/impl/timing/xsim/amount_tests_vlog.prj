@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"amount_tests_time_impl.v" \
+"../../../../../ATM.srcs/sources_1/new/determineAmount.v" \
+"../../../../../ATM.srcs/sim_1/new/amount_tests.v" \
+
+# Do not sort compile order
+nosort

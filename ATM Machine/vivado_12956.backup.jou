@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Mar 13 19:39:52 2021
+# Process ID: 12956
+# Current directory: C:/Users/mamughal/Desktop/ATM Machine
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6524 C:\Users\mamughal\Desktop\ATM Machine\ATM_Machine.xpr
+# Log file: C:/Users/mamughal/Desktop/ATM Machine/vivado.log
+# Journal file: C:/Users/mamughal/Desktop/ATM Machine\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/mamughal/Desktop/ATM Machine/ATM_Machine.xpr}
+update_compile_order -fileset sources_1

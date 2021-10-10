@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Sep 27 00:54:16 2021
+# Process ID: 53088
+# Current directory: C:/Users/raoab/OneDrive/Desktop/IMPORTANT FILES/Verilog/Parking Garage2/Parking Garage2.runs/synth_1
+# Command line: vivado.exe -log parkingMaster.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source parkingMaster.tcl
+# Log file: C:/Users/raoab/OneDrive/Desktop/IMPORTANT FILES/Verilog/Parking Garage2/Parking Garage2.runs/synth_1/parkingMaster.vds
+# Journal file: C:/Users/raoab/OneDrive/Desktop/IMPORTANT FILES/Verilog/Parking Garage2/Parking Garage2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source parkingMaster.tcl -notrace
